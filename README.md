@@ -1,2 +1,1 @@
-Creator: Me(xba123)
-Help: ChatGPT 4o ;)
+The firmware is provided "As Is", which means you can download it, modify it, share it. 
